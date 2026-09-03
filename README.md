@@ -149,12 +149,6 @@ Please follow these guidelines to ensure smooth usage and testing of the system:
   - For **Book IDs**, refer to the **Books.txt** or use the **Display Books** command in the interface for correct numbers.
 - ➤ **Do not modify the data format** in the `.txt` files directly.
 
-## 📞 Contact
-
-If you have any questions or suggestions, feel free to reach out. I'm happy to help!
-
-📧 **Email:** [pbosuateja23@iitk.ac.in](mailto:pbosuateja23@iitk.ac.in)
-
 
 
 
